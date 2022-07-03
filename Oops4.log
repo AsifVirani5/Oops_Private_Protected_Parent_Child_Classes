@@ -1,0 +1,225 @@
+2022-07-03 18:46:19,938INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 18:57:46,650INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 18:57:46,650ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person:
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 18:59:22,977INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 18:59:22,985ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person:
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:02:05,245INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:02:05,245ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person:
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:03:03,811INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:03:03,811ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person:
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:03:35,822INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:03:35,822ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person :
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:04:43,321INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:04:43,321ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person :
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:12:34,214INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:12:34,214ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person :
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 19:13:12,779INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 19:13:12,779ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 8, in <module>
+    class person :
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 20:13:59,622INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:13:59,622ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 13, in person
+    obj = person()
+NameError: name 'person' is not defined
+2022-07-03 20:25:54,568INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:25:54,568ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in person
+    class employee(person):
+NameError: name 'person' is not defined
+2022-07-03 20:26:36,694INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:26:36,694ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in person
+    class employee(person):
+NameError: name 'person' is not defined
+2022-07-03 20:27:29,820INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:27:29,820ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in person
+    class employee(person):
+NameError: name 'person' is not defined
+2022-07-03 20:28:08,608INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:28:08,608ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in person
+    class employee(person):
+NameError: name 'person' is not defined
+2022-07-03 20:28:39,279INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:28:39,279ERRORname 'person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in person
+    class employee(person):
+NameError: name 'person' is not defined
+2022-07-03 20:29:40,078INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:29:40,078ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:31:04,805INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:31:04,805ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 17, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:33:04,132INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:33:04,132ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:36:13,499INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:36:13,499ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:36:34,315INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:36:34,315ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:37:10,982INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:37:10,982ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:40:49,487INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:40:49,487ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person):
+NameError: name 'Person' is not defined
+2022-07-03 20:43:07,908INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:43:07,909ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person) :
+NameError: name 'Person' is not defined
+2022-07-03 20:44:27,072INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:44:27,072ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 20, in Person
+    class employee(Person) :
+NameError: name 'Person' is not defined
+2022-07-03 20:45:01,501INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:45:01,502ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 15, in Person
+    obj2 = Person("anuj", "bhandari", 1990)
+NameError: name 'Person' is not defined
+2022-07-03 20:46:32,620INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:46:32,620ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 15, in Person
+    obj2 = Person("anuj", "bhandari", 1990)
+NameError: name 'Person' is not defined
+2022-07-03 20:47:30,370INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:47:30,370ERRORname 'Person' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 15, in Person
+    obj2 = Person("anuj", "bhandari", 1990)
+NameError: name 'Person' is not defined
+2022-07-03 20:49:10,354INFOThis code shows private & protected variables and also the parent and child classes
+2022-07-03 20:49:10,354ERRORname 'Person1' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 15, in Person1
+    obj2 = Person1("anuj", "bhandari", 1990)
+NameError: name 'Person1' is not defined
+2022-07-03 21:26:42,892ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:27:22,656ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:27:50,391ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:28:11,985ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:28:40,972ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:30:29,006ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:32:09,544ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:34:03,425ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:34:16,705ERRORname 'name' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Exception Handling\Class_Public_Private_Variable_Accessibility1.py", line 10, in person
+    _name = name
+NameError: name 'name' is not defined
+2022-07-03 21:58:40,316INFOThis is a code to find an age. Its a lesson on protected, private variables and parent and child classes and objects
